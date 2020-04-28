@@ -2,17 +2,20 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
   <head>
     <link rel='stylesheet' type="text/css" href='style.css' />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="navbar.js"></script>
     <title>Champions League Stats</title>
   </head>
   <body>
-    <div>
-      <ul class="navigation">
+    <nav>
+      <ul>
+      <button>🞬</button>
         <li><a href="strzelcy.html">Najlepsi strzelcy</a></li>
         <li><a href="ranking.html">Ranking drużyn</a></li>
         <li><a href="kartki.html">Zawodnicy z największą ilością kartek</a></li>
         <li><a href="main.html">Strona główna</a></li>
       </ul>
-    </div>
+    </nav>
     <h1>Zawodnicy z największą ilością żółtych i czerwonych kartek w sezonie 18/19</h1>
     <!--Pobrac i wyswietlić dane o "Zawodnicy z największą ilością żółtych i czerwonych kartek w sezonie 18/19 lub jezli da się 19/20 "-->
     <style></style>
